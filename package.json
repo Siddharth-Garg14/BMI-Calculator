@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "name": "caculator",
+  "version": "1.0.0",
+  "main": "claculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Siddharth Garg",
+  "license": "ISC",
+  "description": "Making calculator"
+}
